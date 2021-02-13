@@ -29,7 +29,6 @@ Installation and Basic Configuration
 
 .. code:: python
 
-    # **non-callable subject**
     # color_print
     from pytcolor import color_print
     color_print("PyTColor", color='green', bg_color='red', style='underline', end=' ')
