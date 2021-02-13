@@ -4,3 +4,8 @@ __pycache__/*
 *.pyo
 .vscode
 .vscode/*
+build
+build/*
+dist
+dist/*
+*.egg-info

@@ -1,7 +1,11 @@
 PyTColor: Python Terminal Color
-=====================
+===============================
 
 
+1.0.0.1
+-------
+
+* Added support to python >= 3.0.0
 1.0.0.0
 -------
 
@@ -15,7 +19,7 @@ PyTColor: A simple python package to get color terminal outputs.
 Dependancies
 ============
 
-* `python`_>=3.5.9
+* `python`_>=3.0.0
 
 
 QuickStart
