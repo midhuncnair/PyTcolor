@@ -43,6 +43,8 @@ Installation and Basic Configuration
 
     # ColoredStreamHandler
     import logging
+    from pytcolor import ColoredStreamHandler
+
     logger = logging.getLogger('test')
     logger.setLevel(logging.DEBUG)
 
